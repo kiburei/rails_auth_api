@@ -1,0 +1,1 @@
+UserAuthApi::Application.config.secret_key_base = '61fcba36cfbbaa3171d901dda0f08b0563a737a152b26ee0c56c2578346de30e0ee3e1cc77c55e05d104ef00eaeb59745943ded315560238178de15975ce919b'
